@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gatein.portal:exo.portal.webui.eXo:3.5.7.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gatein/portal/exo.portal.webui.eXo/3.5.7.Final/exo.portal.webui.eXo-3.5.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gatein/portal/exo.portal.webui.eXo/3.5.7.Final/exo.portal.webui.eXo-3.5.7.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gatein/portal/exo.portal.webui.eXo/3.5.7.Final/exo.portal.webui.eXo-3.5.7.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
